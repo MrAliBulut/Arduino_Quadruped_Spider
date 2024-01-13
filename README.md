@@ -1,5 +1,7 @@
 # Quadruped Spider Robot
 
+## Project Banner (in Turkish)
+
 ![QSRBPoster](https://github.com/MrAliBulut/Arduino_Quadruped_Spider/assets/95712617/a9a58923-a293-4d81-91e7-b787436f6a17)
 
 ## TinkerCAD
