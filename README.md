@@ -2,6 +2,13 @@
 
 ![QSRBPoster](https://github.com/MrAliBulut/Arduino_Quadruped_Spider/assets/95712617/a9a58923-a293-4d81-91e7-b787436f6a17)
 
+## TinkerCAD
+
+
+![QSRBPoster_Back](https://github.com/MrAliBulut/Arduino_Quadruped_Spider/assets/95712617/283c9688-e093-4ba3-a85f-060aa71e3c30)
+
+
+
 ## Overview
 
 This project involves the creation of a Quadruped Spider Robot using Robotistan's template. The robot is controlled through an Arduino board, featuring an IR remote control for easy maneuvering. The project is divided into three main components: IR Code Finder, Servo Configuration, and the Quadruped Spider Robot.
@@ -52,6 +59,13 @@ This function interprets the IR commands received by the robot. It maps each IR 
 - And more...
 
 Feel free to explore the code to discover additional functionalities and customize them as needed.
+
+
+
+## Lecture Presentation (in Turkish)
+
+[Quadruped-Spider-Arduino-Projesi.pdf](https://github.com/MrAliBulut/Arduino_Quadruped_Spider/files/13928860/Quadruped-Spider-Arduino-Projesi.pdf)
+
 
 ## Special Thanks
 
